@@ -1,0 +1,9 @@
+[package]
+name = "filter"
+version = "0.1.0"
+authors = ["modderme123 <hidden>"]
+edition = "2018"
+
+[dependencies]
+piston_window = "*"
+image ="*"
